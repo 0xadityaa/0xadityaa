@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [binarybeast][website] 👋
+### Hi there, I'm Aditya - aka [binarybeast][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 - 🔭 I’m currently a second year student!
