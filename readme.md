@@ -3,7 +3,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 ## I'm a Student, Developer, and Tech Enthusiast!
-- 🔭 I’m currently a second year student!
+- 🔭 I’m a second year student!
 - 🌱 I’m currently learning everything 🤣
 - 🧐 Focusing more on Flutter and bit of Web-dev
 - ⚡ Fun fact: I love to play video games!
