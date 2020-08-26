@@ -6,7 +6,7 @@
 - 🔭 I’m a second year student !
 - 🌱 I’m currently learning everything 🤣
 - 🧐 Focusing more on Flutter and bit of Web-dev
-- ⚡ Fun fact: I love to play video games!
+- ⚡ Fun fact: I love to play video games! 🎮
 
 
 ### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
