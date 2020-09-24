@@ -1,7 +1,5 @@
 ### Hi there, I'm Aditya - aka [binarybeast][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
 ## I'm a Student, Developer, and Tech Enthusiast!
 - 🔭 I’m a second year student !
 - 🌱 I’m currently learning everything 🤣
