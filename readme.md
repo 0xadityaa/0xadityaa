@@ -43,6 +43,6 @@
 
 <img align="left" alt="binarybeast's Github Stats" src="https://github-readme-stats.vercel.app/api?username=binarybeast01&show_icons=true&hide_border=true" />
 
-[website]: https://binarybeast01.netlify.com
+[website]: https://binarybeast-portfolio.netlify.app
 [twitter]: https://twitter.com/aditya_negandhi
 [linkedin]: https://www.linkedin.com/in/aditya-negandhi-49290318b/
