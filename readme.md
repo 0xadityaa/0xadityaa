@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Tech Enthusiast!
 - 🔭 I’m a second year student !
 - 🌱 I’m currently learning everything 🤣
-- 🧐 Focusing more on Native Android and bit of Flutter 📱
+- 🧐 Focusing more on Native Flutter and bit of Android 📱
 - ⚡ Fun fact: Other then building cool stuff, i am a hardcore Gamer! 🎮
 
 
