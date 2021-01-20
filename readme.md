@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="/">
 
 ### Hi there, I'm Aditya - aka [binarybeast][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-## I'm a Student, Developer, and Tech Enthusiast!
+## I'm a Student, Developer, <br> and Tech Enthusiast!
 - 🔭 I’m a second year student !
 - 🌱 I’m currently learning everything 🤣
 - 🧐 Focusing more on Flutter and React 📱
