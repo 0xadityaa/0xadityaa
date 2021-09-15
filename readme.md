@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Aditya - aka [binarybeast][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## I'm a Student, Developer <br> and Tech Enthusiast!
-- 🔭 I’m a second year student !
+- 🔭 I’m a third year student !
 - 🌱 I’m currently learning everything 🤣
 - 🧐 Focusing more on Flutter and React 📱
 - ⚡ Fun fact: Other then building cool stuff, i am a hardcore Gamer! 🎮
