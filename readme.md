@@ -6,7 +6,7 @@
 
 - 💻 I'm a Budding Blockchain Developer, Designer and Content Creator.
 - 🕸️ I am passionate about building decentralised apps.
-- 🤝 Decentralising the web one block at a time.
+- 🤝 decentralizing the web one block at a time.
 - 🎮 Fun fact: Other then building cool stuff, i am a hardcore gamer!
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://0xaditya.hashnode.dev).
 
