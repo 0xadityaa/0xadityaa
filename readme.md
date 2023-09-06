@@ -17,6 +17,6 @@ Feel free to reach me out on [Twitter](https://twitter.com/0xadityaa), [Linkedin
 ## 📈 GitHub Stats
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=binarybeast01&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=binarybeast01&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xadityaa&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" />
 </p>
