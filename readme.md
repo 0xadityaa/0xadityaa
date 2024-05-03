@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Aditya's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Aditya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ### A few things about me
 
-- 💻 I'm a Budding Blockchain Developer, Designer and Content Creator.
-- 🕸️ I am passionate about building decentralised apps.
-- 🤝 decentralizing the web one block at a time.
-- 🎮 Fun fact: Other then building cool stuff, i am a hardcore gamer!
-- 🤓 I like to learn about new tech and blog about it on [Hashnode](https://0xaditya.hashnode.dev).
+- 💻 I'm a Budding Fullstack Developer with keen interest in the Javascript ecosystem.
+- 🕸️ I am passionate about Crafting scalable, reliable and secure software.
+- 🧠 Currently learning more about the world of Dockers and Kubernetes.
+- 🎮 Fun fact: Other than building cool stuff, I am a hardcore gamer!
+- 🤓 I like to explore about new tech and blog about it on [Hashnode](https://0xaditya.hashnode.dev).
 
 ## 📫 How to reach me?
 
