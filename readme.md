@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me?
 
-Feel free to reach out to me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://www.linkedin.com/in/aditya-negandhi-49290318b/) or [Instagram](https://www.instagram.com/0xadityaa)
+Feel free to reach out to me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://www.linkedin.com/in/aditya-negandhi-49290318b/) or [Email](mailto:negandhi.aditya@gmail.com)
 
 ## 📈 GitHub Stats
 <br>
