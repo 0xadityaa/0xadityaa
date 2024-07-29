@@ -19,3 +19,6 @@ Feel free to reach out to me on [Twitter](https://twitter.com/0xadityaa), [Linke
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" />
 </p>
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=0xadityaa&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=987)
