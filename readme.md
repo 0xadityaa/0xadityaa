@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
+[//]: # "[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)"
 
-<h1 align="start">Hi, I'm Aditya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="start"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Aditya</h1>
 
-### A few things about me
+## 💼 A few things about me
 
-- 💻 I'm a Budding Fullstack Developer with keen interest in the Javascript ecosystem.
+- 💻 I'm a Fullstack Developer with keen interest in the JS ecosystem and passion for designing elegant & scalable systems.
 - 🕸️ I am passionate about crafting scalable, reliable and secure software.
 - 🧠 Currently learning more about the world of Dockers and Kubernetes.
 - 🎮 Fun fact: Other than building cool stuff, I am a hardcore gamer!
