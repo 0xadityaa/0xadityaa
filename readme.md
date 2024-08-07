@@ -4,11 +4,11 @@
 
 ## 💼 A few things about me
 
-- 💻 I'm a Fullstack Developer with keen interest in the JS ecosystem and passion for designing elegant & scalable systems.
-- 🕸️ I am passionate about crafting scalable, reliable and secure software.
+- 💻 I'm a Fullstack Developer with keen interest in the JS ecosystem.
+- 🕸️ I am passionate about crafting scalable, elegant and secure systems.
 - 🧠 Currently learning more about the world of Dockers and Kubernetes.
 - 🎮 Fun fact: Other than building cool stuff, I am a hardcore gamer!
-- 🤓 I like to explore new tech and blog about it on [this site]([https://www.0xadityaa.xyz/blog]).
+- 🤓 I like to explore new tech and blog about it on [this site](https://www.0xadityaa.xyz/blog).
 
 ## 📫 How to reach me?
 
