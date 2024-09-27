@@ -22,4 +22,4 @@ Feel free to reach out to me on [Twitter](https://twitter.com/0xadityaa), [Linke
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" />
 </p>
 
-
+<a href="https://app.daily.dev/0xadityaa"><img src="https://api.daily.dev/devcards/v2/yWTTrC3HjKTzXo8HMbZbP.png?type=wide&r=fhk" width="652" alt="Aditya Negandhi's Dev Card"/></a>
