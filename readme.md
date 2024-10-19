@@ -8,7 +8,7 @@
 - 🕸️ I am passionate about crafting scalable, elegant and secure systems.
 - 🧠 Currently learning more about the world of Dockers and Kubernetes.
 - 🎮 Fun fact: Other than building cool stuff, I am a hardcore gamer!
-- 🤓 I like to explore new tech and blog about it on [this site](https://www.0xadityaa.xyz/blog).
+- 🤓 I like to explore new tech and blog about it on [this site](https://www.0xadityaa.xyz/blog)
 
 ## 📫 How to reach me?
 
