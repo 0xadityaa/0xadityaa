@@ -5,7 +5,7 @@
 ## 💼 A few things about me
 
 - 💻 I'm a Fullstack Developer with keen interest in the web ecosystem
-- 🕸️ I am passionate about crafting scalable, elegant and secure systems
+- 🕸️ I am passionate about crafting scalable, impactful and secure systems
 - 🧠 I'm currently exploring LLMs, LangChain, and GenAI architectures
 - 🎮 Other than building cool stuff, I am a hardcore gamer!
 - 🤓 I like to explore new tech and blog about it on [this site](https://www.0xadityaa.xyz/blog)
