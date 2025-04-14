@@ -8,7 +8,7 @@
 - 🕸️ I am passionate about crafting scalable, impactful and secure systems
 - 🧠 I'm currently exploring LLMs, LangChain, and GenAI architectures
 - 🎮 Other than building cool stuff, I am a hardcore gamer!
-- 🤓 I like to explore new tech and blog about it on [this site](https://www.0xadityaa.xyz/blog)
+- 🤓 I like to explore new tech and blog about it on [here](https://www.0xadityaa.xyz/blog)
 
 ## 📫 How to reach me?
 
@@ -16,8 +16,8 @@ You can ping me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://
 
 ## 📈 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=0xadityaa&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=987)
-<br>
+![](https://komarev.com/ghpvc/?username=0xadityaa&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=987) <br/>
 <p align="start">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" />
+ <img width="48%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" /> <br/>
+ <img width="48%" height="40%" src="https://github-readme-stats.vercel.app/api?username=0xadityaa&show_icons=true&theme=radical" />
 </p>
