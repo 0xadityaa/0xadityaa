@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me?
 
-You can ping me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://www.linkedin.com/in/aditya-negandhi-49290318b/) or drop an [Email](mailto:negandhi.aditya@gmail.com)
+You can ping me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://www.linkedin.com/in/aditya-negandhi/) or drop an [Email](mailto:negandhi.aditya@gmail.com)
 
 ## 📈 GitHub Stats
 
