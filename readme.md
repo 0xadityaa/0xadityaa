@@ -8,7 +8,7 @@
 - 🕸️ I am passionate about crafting scalable, impactful and secure systems
 - 🧠 I'm currently exploring LLMs, LangChain, and GenAI architectures
 - 🎮 Other than building cool stuff, I am a hardcore gamer!
-- 🤓 I like to explore new tech and blog about it on [here](https://www.0xadityaa.xyz/blog)
+- 🤓 I like to explore new tech and blog about it on [here](https://www.0xadityaa.dev/blog)
 
 ### 📫 How to reach me?
 
