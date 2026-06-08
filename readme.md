@@ -2,20 +2,18 @@
 
 <h1 align="start"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Aditya</h1>
 
-### 💼 A few things about me
+### About
+I am a full-stack engineer and aspiring solutions architect, I approach software as a form of digital architecture. Tied to a relentless need to understand how things operate from the ground up, my obsession with structure doesn't stop at my IDE. Whether I'm figuring out a new progression in my music, exploring the outdoors, or breaking down a new concept, I am always in my element when figuring out how the pieces fit together.
 
-- 💻 I'm a Fullstack Developer with keen interest in the web ecosystem
-- 🕸️ I am passionate about crafting scalable, impactful and secure systems
-- 🧠 I'm currently exploring LLMs, LangChain, and GenAI architectures
-- 🎮 Other than building cool stuff, I am a hardcore gamer!
-- 🤓 I like to explore new tech and blog about it on [here](https://www.0xadityaa.dev/blog)
+### Explore my work
+- More about me: [portfolio](https://0xadityaa.dev)
+- My writings: [blog](https://www.0xadityaa.dev/blog)
 
-### 📫 How to reach me?
-
-You can ping me on [Twitter](https://twitter.com/0xadityaa), [Linkedin](https://www.linkedin.com/in/aditya-negandhi/) or drop an [Email](mailto:negandhi.aditya@gmail.com)
-
-### 📈 GitHub Stats
+### Stats for nerds
 
 ![](https://komarev.com/ghpvc/?username=0xadityaa&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=987) <br/>
  <img height="120%" src="https://github-readme-stats.vercel.app/api?username=0xadityaa&show_icons=true&theme=radical" /> <br/>
  <img height="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xadityaa&theme=radical" />
+
+
+You can ping me on [x](https://x.com/0xadityaa), [linkedin](https://www.linkedin.com/in/aditya-negandhi) or drop an [email](mailto:negandhi.aditya@gmail.com)
