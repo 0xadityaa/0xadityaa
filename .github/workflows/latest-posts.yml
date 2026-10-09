@@ -1,0 +1,56 @@
+name: Latest posts
+# Keeps the "Writing" list in readme.md in step with https://www.0xadityaa.dev/rss.xml.
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+  # Sent by the Cross-post action in 0xadityaa/Portfolio when it has a token.
+  repository_dispatch:
+    types: [posts-updated]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Rewrite the list from the feed
+        run: |
+          node <<'JS'
+          const fs = require("fs");
+          const FEED = "https://www.0xadityaa.dev/rss.xml";
+          const COUNT = 5;
+          const unescape = (s) =>
+            s.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&amp;/g, "&");
+
+          (async () => {
+            const res = await fetch(FEED);
+            if (!res.ok) throw new Error(`Feed responded ${res.status}`);
+            const xml = await res.text();
+            const posts = [...xml.matchAll(/<item>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link>([\s\S]*?)<\/link>/g)]
+              .slice(0, COUNT)
+              .map(([, title, link]) => `- [${unescape(title.trim())}](${link.trim()})`);
+            if (posts.length === 0) throw new Error("No posts found in the feed; leaving the README alone.");
+
+            const readme = fs.readFileSync("readme.md", "utf8");
+            const block = /(<!-- posts:start -->)[\s\S]*?(<!-- posts:end -->)/;
+            if (!block.test(readme)) throw new Error("readme.md is missing the posts:start / posts:end markers.");
+            fs.writeFileSync("readme.md", readme.replace(block, `$1\n${posts.join("\n")}\n$2`));
+          })().catch((error) => {
+            console.error(error.message);
+            process.exit(1);
+          });
+          JS
+      - name: Commit if the list changed
+        run: |
+          if [ -n "$(git status --porcelain readme.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Update latest posts"
+            git push
+          fi
