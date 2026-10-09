@@ -8,11 +8,13 @@ I have always been driven by a need to understand how things are built from the 
 
 ### Writing
 
+<!-- posts:start -->
 - [Going Event-Driven? Read the Bill First.](https://www.0xadityaa.dev/blog/going-event-driven-read-the-bill-first)
 - [Microservices? Do You Really Need Them?](https://www.0xadityaa.dev/blog/microservices-do-you-really-need-them)
 - [How LLMs Process Text](https://www.0xadityaa.dev/blog/how-llms-process-text)
 - [What is semantic search & how to implement it?](https://www.0xadityaa.dev/blog/what-is-semantic-search)
 - [Do you really need AI Agents?](https://www.0xadityaa.dev/blog/do-you-really-need-agents)
+<!-- posts:end -->
 
 [All posts](https://www.0xadityaa.dev/blog) · [RSS](https://www.0xadityaa.dev/rss.xml)
 
