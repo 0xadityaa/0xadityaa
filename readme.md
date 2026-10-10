@@ -9,11 +9,11 @@ I have always been driven by a need to understand how things are built from the 
 ### Writing
 
 <!-- posts:start -->
+- [A Folder That Contains Nothing Is a Lie](https://www.0xadityaa.dev/blog/a-folder-that-contains-nothing-is-a-lie)
+- [5% a Day Sounds Gentle. It Isn't.](https://www.0xadityaa.dev/blog/five-percent-a-day-sounds-gentle)
+- [Why Does Every AI Tool Forget You?](https://www.0xadityaa.dev/blog/why-ai-tools-forget-you)
 - [Going Event-Driven? Read the Bill First.](https://www.0xadityaa.dev/blog/going-event-driven-read-the-bill-first)
 - [Microservices? Do You Really Need Them?](https://www.0xadityaa.dev/blog/microservices-do-you-really-need-them)
-- [How LLMs Process Text](https://www.0xadityaa.dev/blog/how-llms-process-text)
-- [What is semantic search & how to implement it?](https://www.0xadityaa.dev/blog/what-is-semantic-search)
-- [Do you really need AI Agents?](https://www.0xadityaa.dev/blog/do-you-really-need-agents)
 <!-- posts:end -->
 
 [All posts](https://www.0xadityaa.dev/blog) · [RSS](https://www.0xadityaa.dev/rss.xml)
