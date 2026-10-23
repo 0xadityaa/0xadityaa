@@ -1,10 +1,10 @@
 # Aditya Negandhi
 
-Software engineer in Toronto, mostly on the backend: event-driven services, data pipelines, and retrieval for AI tools.
+Software engineer in Toronto, mostly backend. I like event-driven systems and figuring out how things actually work.
 
-- **At [Enercare](https://www.enercare.ca/):** founding engineer on Compass, our in-house CRM (150+ agents, production in 8 months). Then the only engineer on the Discount Rules Engine, which checks per-customer, per-channel eligibility and serves offers to Salesforce and Compass for 90,000+ customers. TypeScript, NestJS, Azure Service Bus.
-- **Building [Hivemind](https://gethivemind.xyz):** one memory for every AI tool you use, plus task handoffs you can check. Hybrid BM25 + vector retrieval, RRF, reranking, token-budget packing. Cloudflare Workers, Bun, MCP.
-- **Writing:** about architecture and AI infra at [0xadityaa.dev](https://www.0xadityaa.dev). [Résumé](https://www.0xadityaa.dev/resume.pdf).
+- **At [Enercare](https://www.enercare.ca/):** founding engineer on our in-house CRM, then solo on a discount rules engine now serving 90,000+ customers.
+- **After hours:** building [Hivemind](https://gethivemind.xyz), so my AI tools stop forgetting what I told them.
+- **Writing:** at [0xadityaa.dev](https://www.0xadityaa.dev). [Résumé](https://www.0xadityaa.dev/resume.pdf).
 
 ### Writing
 
@@ -20,10 +20,10 @@ Software engineer in Toronto, mostly on the backend: event-driven services, data
 
 ### Projects
 
-- [Hivemind](https://gethivemind.xyz): shared memory and checked task handoffs across Claude Code, Cursor, Codex, ChatGPT and more. 98.4% on LongMemEval single-session questions, 40x fewer tokens than sending the full chat.
-- [Clipper](https://github.com/0xadityaa/clipper): turns an hour-long video into 10+ subtitled vertical clips in under five minutes. GPU jobs on Modal, Whisper, FFmpeg, Inngest.
-- [GraphRAG Chat](https://github.com/0xadityaa/GraphRAGChat): scrapes the web into a knowledge graph on Spanner Graph and answers with citations. Serverless on GCP.
-- [Finchat](https://github.com/0xadityaa/Finchat): real-time stock Q&A with charts, built on LangGraph and FastAPI.
+- [Hivemind](https://gethivemind.xyz): one memory for every AI tool you use.
+- [Clipper](https://github.com/0xadityaa/clipper): an hour of video in, 10+ vertical clips out, in under five minutes.
+- [GraphRAG Chat](https://github.com/0xadityaa/GraphRAGChat): a chatbot that answers with receipts, from a knowledge graph it builds itself.
+- [Finchat](https://github.com/0xadityaa/Finchat): ask about a stock, get an answer and a chart.
 
 [All projects](https://www.0xadityaa.dev/projects)
 
