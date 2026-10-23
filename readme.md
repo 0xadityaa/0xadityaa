@@ -1,10 +1,10 @@
 # Aditya Negandhi
 
-Full stack engineer in Toronto, working toward solutions architecture. I build event-driven systems and write about what I learn.
+Software engineer in Toronto, mostly on the backend: event-driven services, data pipelines, and retrieval for AI tools.
 
-Currently at [Enercare](https://www.enercare.ca/), working across the stack with TypeScript, Nest.js, Azure, and React, and helping modernize legacy systems into a reliable, event-driven architecture.
-
-I have always been driven by a need to understand how things are built from the ground up. That curiosity doesn't stop at the keyboard: whether I am figuring out a new progression while making music or exploring outdoors, I just enjoy working out how pieces fit together.
+- **At [Enercare](https://www.enercare.ca/):** founding engineer on Compass, our in-house CRM (150+ agents, production in 8 months). Then the only engineer on the Discount Rules Engine, which checks per-customer, per-channel eligibility and serves offers to Salesforce and Compass for 90,000+ customers. TypeScript, NestJS, Azure Service Bus.
+- **Building [Hivemind](https://gethivemind.xyz):** one memory for every AI tool you use, plus task handoffs you can check. Hybrid BM25 + vector retrieval, RRF, reranking, token-budget packing. Cloudflare Workers, Bun, MCP.
+- **Writing:** about architecture and AI infra at [0xadityaa.dev](https://www.0xadityaa.dev). [Résumé](https://www.0xadityaa.dev/resume.pdf).
 
 ### Writing
 
@@ -20,10 +20,10 @@ I have always been driven by a need to understand how things are built from the 
 
 ### Projects
 
-- [Clipper](https://github.com/0xadityaa/clipper): AI agent that repurposes long videos into social media clips using Gemini 2.5 Pro and FFMPEG.
-- [Gitbuddy](https://github.com/0xadityaa/Gitbuddy): Multi-agent tool that automates repository tasks like documentation, Dockerization, and commit history.
-- [GraphRAG Chat](https://github.com/0xadityaa/GraphRAGChat): A chatbot that builds knowledge graphs from scraped data to answer complex questions with citations, serverless on GCP.
-- [Finchat](https://github.com/0xadityaa/Finchat): Real-time financial chatbot for stock analysis and market trends, built with RAG and GPT-4o.
+- [Hivemind](https://gethivemind.xyz): shared memory and checked task handoffs across Claude Code, Cursor, Codex, ChatGPT and more. 98.4% on LongMemEval single-session questions, 40x fewer tokens than sending the full chat.
+- [Clipper](https://github.com/0xadityaa/clipper): turns an hour-long video into 10+ subtitled vertical clips in under five minutes. GPU jobs on Modal, Whisper, FFmpeg, Inngest.
+- [GraphRAG Chat](https://github.com/0xadityaa/GraphRAGChat): scrapes the web into a knowledge graph on Spanner Graph and answers with citations. Serverless on GCP.
+- [Finchat](https://github.com/0xadityaa/Finchat): real-time stock Q&A with charts, built on LangGraph and FastAPI.
 
 [All projects](https://www.0xadityaa.dev/projects)
 
