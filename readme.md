@@ -9,11 +9,11 @@ Software engineer in Toronto, mostly backend. I like event-driven systems and fi
 ### Writing
 
 <!-- posts:start -->
+- [Your MCP Servers Eat 24,000 Tokens Before You Type](https://www.0xadityaa.dev/blog/every-mcp-server-taxes-every-prompt)
 - [A Folder That Contains Nothing Is a Lie](https://www.0xadityaa.dev/blog/a-folder-that-contains-nothing-is-a-lie)
 - [5% a Day Sounds Gentle. It Isn't.](https://www.0xadityaa.dev/blog/five-percent-a-day-sounds-gentle)
 - [Why Does Every AI Tool Forget You?](https://www.0xadityaa.dev/blog/why-ai-tools-forget-you)
 - [Going Event-Driven? Read the Bill First.](https://www.0xadityaa.dev/blog/going-event-driven-read-the-bill-first)
-- [Microservices? Do You Really Need Them?](https://www.0xadityaa.dev/blog/microservices-do-you-really-need-them)
 <!-- posts:end -->
 
 [All posts](https://www.0xadityaa.dev/blog) · [RSS](https://www.0xadityaa.dev/rss.xml)
